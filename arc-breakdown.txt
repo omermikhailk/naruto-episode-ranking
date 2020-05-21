@@ -16,9 +16,9 @@ Fourth Shinobi World War: Countdown / 215.222 + 243.256
 Filler / Paradise Life on a Boat / 223.242
 Filler / Naruto Recap Arc I / 257.260
 Fourth Shinobi World War: Confrontation / 261.270 + 272.289 + 296.310 + 312.321
-Filler / Road to Sakura / 271
+Filler / Road to Sakura / 271.271
 Filler / Power / 290.295
-Filler / Prologue of Road to Ninja / 311
+Filler / Prologue of Road to Ninja / 311.311
 Fourth Shinobi World War: Climax / 322.348 + 362.375
 Filler / Kakashi's Anbu Arc: The Shinobi That Lives in the Darkness / 349.361
 Filler / Mecha-Naruto / 376.377
@@ -29,7 +29,7 @@ Filler / Konohamaru POV / 422.423
 Kaguya Ōtsutsuki Strikes / 428.431 + 458.468 + 470.479
 Filler / Jiraiya Shinobi Handbook: The Tale of Naruto the Hero / 432.450
 Filler / Itachi Shinden Book: Light and Darkness / 451.457
-Filler / A Special Mission / 469
+Filler / A Special Mission / 469.469
 Filler / Childhood / 480.483
 Filler / Sasuke Shinden: Book of Sunrise / 484.488
 Filler / Shikamaru Hiden: A Cloud Drifting in Silent Darkness / 489.493
