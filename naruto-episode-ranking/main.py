@@ -61,9 +61,7 @@ def sort_arc_list(arc_file):
 
                     start, end = ep_range[0], ep_range[1] + 1
                     ep_range = list(range(start, end))
-
                 main_arcs[title] = ep_range
-
             all_arcs[title] = ep_range
 
 
