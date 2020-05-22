@@ -66,7 +66,5 @@ def sort_arc_list(arc_file):
             all_arcs[title] = ep_range
 
 
-sort_arc_list('arc-breakdown.txt')
-
-for key, value in all_arcs.items():
-    print(key, '\n\t\t', value)
+if __name__ == '__main__':
+    pass
