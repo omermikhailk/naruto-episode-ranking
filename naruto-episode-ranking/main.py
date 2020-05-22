@@ -36,3 +36,4 @@ with open('arc-breakdown.txt', 'r') as f:
 				ep_range = list(range(ep_range[0], ep_range[1] + 1))
 			main_arcs[title] = ep_range
 		all_arcs[title] = ep_range
+		print(arc)
