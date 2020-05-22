@@ -1,3 +1,9 @@
+"""
+Categorise the episodes of Naruto: Shippuden into
+their respective arcs.
+"""
+
+
 from collections import OrderedDict
 
 
