@@ -55,7 +55,7 @@ def get_ep_info(base_url):
 def main():
     base = 'https://www.imdb.com/title/tt0988824/episodes?year='
     info = get_ep_info(base)
-    print(info)
 
 
-main()
+if __name__ == '__main__':
+    main()
